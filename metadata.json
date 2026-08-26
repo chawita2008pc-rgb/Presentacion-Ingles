@@ -1,0 +1,6 @@
+{
+  "name": "Fashion: A Silent Language",
+  "description": "An elegant, modern editorial website exploring fashion as a powerful, unspoken form of communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
